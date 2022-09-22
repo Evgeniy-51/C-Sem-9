@@ -45,6 +45,3 @@ for (int i = 0; i < size; i++)  // Вывод массива
     }
     System.Console.WriteLine();
 }
-
-
-
